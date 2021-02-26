@@ -8,9 +8,9 @@
 
 ## how to use
 
-![demo1](https://github.com/bksubramanyarao/get-json-keys-or-values/images/demo1.gif)
+![demo1](https://raw.githubusercontent.com/bksubramanyarao/get-json-keys-or-values/main/images/demo1.gif)
 
-![demo2](https://github.com/bksubramanyarao/get-json-keys-or-values/images/demo2.gif)
+![demo2](https://raw.githubusercontent.com/bksubramanyarao/get-json-keys-or-values/main/images/demo2.gif)
 
 
 ## license

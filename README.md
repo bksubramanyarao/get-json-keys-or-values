@@ -7,6 +7,7 @@
 4.	get json values with comma separated
 
 ## how to use
+This extension will let us select only **keys** or **values** from **json** on selection, refer demo below
 
 ![demo1](https://raw.githubusercontent.com/bksubramanyarao/get-json-keys-or-values/main/images/demo1.gif)
 

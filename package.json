@@ -2,7 +2,8 @@
 	"name": "get-json-keys-or-values",
 	"displayName": "get json keys or values",
 	"description": "This extension will let us select only keys or values from json on selection",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"publisher": "SubramanyaRao",
 	"author": "Subramanya Rao <bkrsubbu@yahoo.com>",
 	"keywords": [
 		"json"
@@ -10,7 +11,7 @@
 	"license": "MIT",
 	"repository": "https://github.com/bksubramanyarao/get-json-keys-or-values",
 	"engines": {
-		"vscode": "^1.50.0"
+		"vscode": "^1.53.0"
 	},
 	"categories": [
 		"Other"
